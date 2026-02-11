@@ -1,0 +1,7 @@
+{
+  "name": "Sally Chanza Business Café",
+  "description": "Universal asset and service management system backed by Google Sheets logic. Manage clients, assets, contracts, and billing with AI-driven insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
